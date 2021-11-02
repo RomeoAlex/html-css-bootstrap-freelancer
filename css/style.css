@@ -1,6 +1,15 @@
+/* COMMON */
+.back_green{
+    background-color: #1abc9c;
+}
+.back_navy_grey{
+    background-color: #3a546d;
+}
+.back_tire{
+    background-color: #2c3e50;
+}
 /* HEADER */
 header{
-    background-color: #2c3e50;
     color: white;
 }
 .menus_container, .menu_title h3{
@@ -15,9 +24,7 @@ header{
     text-decoration: none;
     color: white;
 }
-.backgreen{
-    background-color: #1abc9c;
-}
+
 .jumbo_container{
     margin:0 auto;
     width: 90%;
@@ -43,11 +50,31 @@ header{
 .portfolio_img img{
     width:100%;
 }
+.my_container{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.my_container p{
+    text-align: left;
+}
+footer{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.copyright{
+    height: 120px;
+
+}
+.copyright span{
+line-height: 120px;
+}
 /* @media (min-width: 768px) {
-    .jumbo_container{
-        margin:0 auto;
-        width: 90%;
-        text-align: center;
-    } 
+    .my_container{
+    width: 80%;
+}
 
 } */
