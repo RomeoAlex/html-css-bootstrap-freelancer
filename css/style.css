@@ -50,12 +50,7 @@ header{
 .portfolio_img img{
     width:100%;
 }
-.my_container{
-    width: 50%;
-    margin: 0 auto;
-    text-align: center;
-    color: white;
-}
+
 .my_container p{
     text-align: left;
 }
