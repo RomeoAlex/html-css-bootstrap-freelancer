@@ -89,6 +89,13 @@ footer{
     margin-top: 20px;
     color: white;
 }
+.my_central span{
+    font-size: 30px;
+    padding:10px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
 .copyright{
     height: 120px;
 
