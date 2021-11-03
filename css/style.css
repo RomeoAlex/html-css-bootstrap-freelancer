@@ -15,6 +15,10 @@ h1 , h2{
     text-align: center;
     padding: 20px 0;
 }
+h4{
+    padding:30px 0;
+}
+/* soluzione per linea della stellina temporanea */
 hr{
     border: 2.5px solid white;
     border-radius: 10px;
@@ -39,7 +43,7 @@ header{
     text-decoration: none;
     color: white;
 }
-
+/* Main */
 .jumbo_container{
     margin:0 auto;
     width: 90%;
@@ -85,6 +89,7 @@ header{
 .my_container p{
     text-align: left;
 }
+/* FOOTER */
 footer{
     margin-top: 20px;
     color: white;
